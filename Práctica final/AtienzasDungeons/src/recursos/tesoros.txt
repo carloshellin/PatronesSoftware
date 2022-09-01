@@ -1,0 +1,5 @@
+Antorcha;Esto es una antorcha.;VestibuloOeste
+Espada;Es una gran espada mágica.;PasilloOeste
+Llave;Es una llave que abre alguna puerta.;SinSalida
+Necronomicón;Parece que sirve para contactar con los Antiguos;SinSalida
+Poción;Una poción que permite recuperar vida;SinSalida

@@ -1,0 +1,32 @@
+Título;Bienvenidos a Atienza's Dungeons.\nEscribe nuevo para empezar una nueva partida o cargar para restaurar la última partida guardada.;titulo.jpg
+EntradaNorte;Te encuentras en la Entrada mirando al Norte.\nSiguiendo el rastro del Osgo que tiene el Necronomicón, te encuentras con la entrada de unas antiguas mazmorras rodeadas de vegetación. Un estrecho camino seco hecho de gravilla y arena se adentra en estas mazmorras. Escribe 'ayuda' para conocer todos los comandos.;entrada_norte.jpg
+EntradaSur;Te encuentras en la Entrada mirando al Sur.\nEl camino de gravilla y arena se pierde en el horizonte sin llevar a ningún sitio.;entrada_sur.jpg
+EntradaEste;Te encuentras en la Entrada mirando al Este.\nAquí solo encuentras una pared de piedra de estilo medieval. No parece que tenga mucho misterio.;entrada_este.jpg
+EntradaOeste;Te encuentras en la Entrada mirando al Oeste.\nEn la pared se ven algunos restos de las antiguas rejas que pertenecían a las mazmorras. No creo que haya salida en este lugar.;entrada_oeste.jpg
+VestibuloNorte;Te encuentras en el Vestíbulo mirando al Norte.\nAquí se empieza a sentir lo estraño que es este lugar. Las paredes son muros robustos con un techo en forma de cañón. Destaca la puerta oscura que se encuentra al frente, ¿qué habrá allí?;vestibulo_norte.jpg
+VestibuloSur;Te encuentras en el Vestíbulo mirando al Sur.\nEsta es la puerta que lleva a la entrada.;vestibulo_sur.jpg
+VestibuloEste;Te encuentras en el Vestíbulo mirando al Este.\nHas encontrado unos pocos escalones desiguales de piedra recubiertos de una suave capa de arena. Habrá que tener cuidado al pasar por ahí, es muy estrecho.;vestibulo_este.jpg
+VestibuloOeste;Te encuentras en el Vestíbulo mirando al Oeste.\nEsto es una pared de piedra bastente robusto. Parece que eso era una ventana. ¡Qué raro que esté tapada!;vestibulo_oeste.jpg
+PerreraNorte;Te encuentras en la Perrera mirando al Norte.\n¡Uy!, una pared de piedra.;perrera_norte.jpg
+PerreraSur;Te encuentras en la Perrera mirando al Sur.\nAl fijarse en este hueco, llega un hedor de animales. También se puede escuchar un leve sonido de cadenas y gruñidos.;perrera_sur.jpg
+PerreraEste;Te encuentras en la Perrera mirando al Este.\nHay una apertura donde se ve mucha luz. Parece que fue una chimenea hace ya mucho tiempo.;perrera_este.jpg
+PerreraOeste;Te encuentras en la Perrera mirando al Oeste.\nAquí encontramos unas escaleras de piedra recubiertas de una suave capa de arena. Es una zona muy estrecha, ¡cuidado al bajar!.;perrera_oeste.jpg
+Chimenea;Te encuentras en el interior de la Chimenea.\nYa parece que estás cerca de la salida, se ve más claridad.;chimenea.jpg
+CavernaNorte;Te encuentras en la Caverna mirando al Norte.\nSe ven una serie de escalones de piedra que descienden. Parece ser que llevan a una nueva habitación.;caverna_norte.jpg
+CavernaSur;Te encuentras en la Caverna mirando al Sur.\nParece ser un lugar de almacenaje antiguo. Ahí se guardarían las provisiones para mantenerlas frescas. Ahora está lleno de malas hierbas. Parece que se escuchan extraños sonidos.;caverna_sur.jpg
+CavernaEste;Te encuentras en la Caverna mirando al Este.\nAquí solo hay una roca enorme.;caverna_este.jpg
+CavernaOeste;Te encuentras en la Caverna mirando al Oeste.\nEsto es la salida de una antigua chimenea.;caverna_oeste.jpg
+PasilloNorte;Te encuentras en el Pasillo mirando al Norte.\n¡Vaya una pared!, no voy a poder pasar.;pasillo_norte.jpg
+PasilloSur;Te encuentras en el Pasillo mirando al Sur.\nAhí hay una puerta, ¿dónde llevará?;pasillo_sur.jpg
+PasilloEste;Te encuentras en el Pasillo mirando al Este.\nSon unas largas escaleras hacia arriba. Llevarán a otras salas.;pasillo_este.jpg
+PasilloOeste;Te encuentras en el Pasillo mirando al Oeste.\nHay una puerta de madera. Parece que no se puede abrir fácilmente. No sé si estará la llave en algún lugar cercano.;pasillo_oeste.jpg
+PasilloOscuroNorte;Te encuentras en el Pasillo mirando al Norte.\nEstá muy oscuro, no consigo ver nada.;pasillo_osc_norte.jpg
+PasilloOscuroSur;Te encuentras en el Pasillo mirando al Sur.\nEstá muy oscuro. Parece que es la única salida.;pasillo_osc_sur.jpg
+PasilloOscuroEste;Te encuentras en el Pasillo mirando al Este.\nEstá muy oscuro, no consigo ver nada.;pasillo_osc_este.jpg
+PasilloOscuroOeste;Te encuentras en el Pasillo mirando al Oeste.\nEstá muy oscuro, no consigo ver nada.;pasillo_osc_oeste.jpg
+MadrigueraNorte;Te encuentras en la Madriguera mirando al Norte.\nSe siente un hedor maloliente casi insoportable. Es una zona muy extraña como si estuviera controlada por una energía superior.;madriguera_norte.jpg
+MadrigueraSur;Te encuentras en la Madriguera mirando al Sur.\nEsto parece una ventana. No creo que sea buena idea acercarse a ella.;madriguera_sur.jpg
+MadrigueraEste;Te encuentras en la Madriguera mirando al Este.\nSe ha bloqueado la puerta con algún tipo de muro mágico. No voy a poder salir de aquí.;madriguera_este.jpg
+MadrigueraOeste;Te encuentras en la Madriguera mirando al Oeste.\nEl aire está brumoso con el humo de un fuego de cocina, e impregnado del hedor de pieles mal curtidas e informáticos que llevan un tiempo sin lavarse.;madriguera_oeste.jpg
+SinSalida;No hay salida.;null.jpg
+Final;Logras salir de la mazmorra, empiezas a leer e interesarte por el Necronomicón hasta que... ¡CONSIGUES INVOCAR AL PROPIO CTHULHU!\nLa partida llega a su fin.;cthulhu.png
